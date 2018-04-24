@@ -20,7 +20,7 @@ Install flask
 sudo pip3 install flask
 ```
 
-##Starting the challenge
+## Starting the challenge
 * Clone the repository to a folder and navigate to the folder.
 * Open a terminal
 * run ``` python3 encrypt.py```
